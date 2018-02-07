@@ -1,0 +1,8 @@
+oplog:
+  name: oplogReader
+  sleepTime: 1000
+  rabbit:
+    enabled: true
+    topic : mongoDBOplogReader
+
+
