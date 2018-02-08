@@ -4,7 +4,7 @@
   <groupId>be.ccl.mongo.oplog</groupId>
   <artifactId>MongoDBOplogReader</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.0-RELEASE</version>
   <build>
     <plugins>
       <plugin>
